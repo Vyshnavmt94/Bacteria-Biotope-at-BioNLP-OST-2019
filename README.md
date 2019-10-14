@@ -9,10 +9,10 @@ A large part of the information is expressed in free text in large sets of scien
 # Dataset 
 The representation scheme of the BB task contains four entity types:
 
-# Microorganism
-# Habitat
-# Geographical
-# Phenotype
+- Microorganism
+- Habitat
+- Geographical
+- Phenotype
 and two relation types:
 
 Lives_in relations which link a Microorganism entity to a location (either a Habitat or a Geographical entity)
